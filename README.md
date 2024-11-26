@@ -4,6 +4,18 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=UNKN0WN006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+### :bar_chart: Contribution graph:
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UNKN0WN006/UNKN0WN006/main/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UNKN0WN006/UNKN0WN006/main/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UNKN0WN006/UNKN0WN006/main/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+
 ## Profile Views ##
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/UNKN0WN006/count.svg">
