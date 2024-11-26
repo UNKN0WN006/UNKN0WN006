@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 I am Sushar Hembram ()<br>🚀I'm a dedicated sophomore Information Technology student eager to innovate and create.<br><br>My interests are in:<br><br>Machine Learning 🧠: Developing intelligent systems 🤖 to automate tasks and gain insights from data 📊.<br>Cybersecurity 🔒: Protecting digital assets 🛡️ and combating cyber threats ⚠️.<br>Chassis Designing ⚙️: Crafting the physical foundation 🏗️ for cutting-edge automobiles.<br><br>Beyond technical pursuits, I find joy in creative endeavors like home design 🏠, architectural painting 🎨, and storytelling 📖.<br><br><br>I’m also exploring:<br><br>Mobile Development 📱: Building user-friendly mobile applications 📱.<br>Extension Development 🧩: Enhancing software functionality ⚙️ and user experience 📈.<br>Data Analytics and Cloud Computing 📊 ☁️: Unlocking the power of data 📊 and leveraging cloud technologies ☁️.<br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UNKN0WN006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=UNKN0WN006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/716856014405763122) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushar-h-949353238) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hembramsushar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sitongsusharhembram563) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/UNKNOWN-006) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Bubbly_Bluebird7792) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28485788) 
@@ -16,7 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UNKN0WN006&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
