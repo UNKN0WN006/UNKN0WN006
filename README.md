@@ -1,8 +1,7 @@
 
+# 💫 About Me: 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&pause=1000&color=4AF759&width=435&lines=Technical+Writer;UI%2FUX+Designer;+Full-Stack+Developer+;AI+Developer+;Assembly+Programmer)](https://git.io/typing-svg)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 💫 About Me:
 👋 I am Sushar Hembram ()<br>🚀I'm a dedicated sophomore Information Technology student eager to innovate and create.<br><br>My interests are in:<br><br>Machine Learning 🧠: Developing intelligent systems 🤖 to automate tasks and gain insights from data 📊.<br>Cybersecurity 🔒: Protecting digital assets 🛡️ and combating cyber threats ⚠️.<br>Chassis Designing ⚙️: Crafting the physical foundation 🏗️ for cutting-edge automobiles.<br><br>Beyond technical pursuits, I find joy in creative endeavors like home design 🏠, architectural painting 🎨, and storytelling 📖.<br><br><br>I’m also exploring:<br><br>Mobile Development 📱: Building user-friendly mobile applications 📱.<br>Extension Development 🧩: Enhancing software functionality ⚙️ and user experience 📈.<br>Data Analytics and Cloud Computing 📊 ☁️: Unlocking the power of data 📊 and leveraging cloud technologies ☁️.<br>
 
 ## 🏆 GitHub Trophies
