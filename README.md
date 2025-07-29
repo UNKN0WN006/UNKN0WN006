@@ -10,7 +10,7 @@
 
 ## Profile Views ##
 <p align="center"> 
-Thinking something new!!
+![](https://komarev.com/ghpvc/?username=UNKN0WN006&color=green)
 
 
 
