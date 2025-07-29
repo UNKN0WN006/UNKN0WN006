@@ -10,7 +10,7 @@
 
 ## Profile Views ##
 <p align="center"> 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=UNKN0WN006.UNKN0WN006)
+Thinking something new!!
 
 
 
