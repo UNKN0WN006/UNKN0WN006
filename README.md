@@ -10,7 +10,8 @@
 
 ## Profile Views ##
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/UNKN0WN006/count.svg">
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=UNKN0WN006.UNKN0WN006)
+
 
 
 ## 🌐 Socials:
