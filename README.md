@@ -122,60 +122,59 @@ and in asking:
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📈 Quantitative Research
 
-- probabilistic forecasting
-- systematic macro
-- financial time series
-- signal research
-- alternative data
-- market behaviour
-- forecast calibration
+- Probabilistic forecasting
+- Systematic macro
+- Financial time series
+- Alternative data
+- Signal research
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛡️ Security Research
 
-- vulnerability research
-- threat intelligence
-- CTF / security labs
-- attack classification
-- reverse engineering
-- adversarial systems
-- security engineering
+- Vulnerability research
+- Threat intelligence
+- Reverse engineering
+- Adversarial systems
+- Security engineering
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 Machine Learning / NLP
 
-- text summarisation
-- financial NLP
-- few-shot learning
-- representation learning
-- forecasting models
-- model evaluation
-- pattern recognition
+- Financial NLP
+- Text summarisation
+- Few-shot learning
+- Forecasting models
+- Model evaluation
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚀 Scientific Systems
 
-- aeronautics
-- spacecraft systems
-- control systems
-- simulation
-- scientific computing
-- autonomous systems
+- Aeronautics
+- Space systems
+- Control systems
+- Simulation
+- Scientific computing
 
 </td>
+
 </tr>
 </table>
 
@@ -351,51 +350,38 @@ I treat forecasting as an iterative research process rather than a one-time pred
 
 ## 🛡️ Security Operations
 
-```text
-                        INTERNET
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Reconnaissance  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Attack Surface  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Vulnerability   │
-                  │    Research     │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Exploitability  │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Threat Intel    │
-                  └────────┬────────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Detection / IR  │
-                  └─────────────────┘
-```
+My security work spans the full path from attack-surface discovery to threat analysis and defensive intelligence.
 
 <div align="center">
 
-![HackerOne](https://img.shields.io/badge/HackerOne-Research-111111?style=for-the-badge&logo=hackerone)
-![Intigriti](https://img.shields.io/badge/Intigriti-Vulnerability_Research-111827?style=for-the-badge)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Security_Labs-111827?style=for-the-badge&logo=tryhackme&logoColor=red)
+### `RECON → ATTACK SURFACE → VULNERABILITY → EXPLOITABILITY → THREAT INTEL → RESPONSE`
+
+<br>
+
+![Recon](https://img.shields.io/badge/01-RECON-111827?style=for-the-badge)
+![Attack Surface](https://img.shields.io/badge/02-ATTACK_SURFACE-164E63?style=for-the-badge)
+![Vulnerability](https://img.shields.io/badge/03-VULNERABILITY-7F1D1D?style=for-the-badge)
+![Exploitability](https://img.shields.io/badge/04-EXPLOITABILITY-581C87?style=for-the-badge)
+![Threat Intelligence](https://img.shields.io/badge/05-THREAT_INTEL-854D0E?style=for-the-badge)
+![Response](https://img.shields.io/badge/06-RESPONSE-14532D?style=for-the-badge)
+
+<br><br>
+
+<a href="https://www.hackerone.com/">
+<img src="https://img.shields.io/badge/HackerOne-Research-111111?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Intigriti-Vulnerability_Research-111827?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HackTheBox-Security_Labs-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-Security_Labs-111827?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+
+<br><br>
+
+`OWASP` · `OSINT` · `Threat Intelligence` · `Reverse Engineering` · `Penetration Testing` · `Incident Analysis`
 
 </div>
-
-`OWASP` · `Vulnerability Research` · `Threat Intelligence` · `OSINT` · `Reverse Engineering` · `Incident Analysis` · `Penetration Testing` · `Linux Security`
 
 ---
 
