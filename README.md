@@ -38,7 +38,7 @@ Most of that can be reduced to one question:
 
 ---
 
-## `01 // current research`
+## `01 // research radar`
 
 <div align="center">
   <img src="./assets/research-board.svg" width="100%" alt="Current research board"/>
@@ -209,13 +209,12 @@ I treat forecasting as a loop, not a one-shot prediction:
 
 ---
 
-## `05 // proof of work`
+## `05 // selected results`
 
 | Signal | Evidence |
 |---|---|
 | **COMSYS Hackathon IV** | 3rd Place · few-shot multimedia classification |
 | **Google SecOps MCP Challenge** | Top 3 · security automation |
-| **Forecasting the Future 2026** | 20-outcome macro / geopolitical forecasting submission |
 | **NASA citizen science** | 2,800+ astronomical classifications |
 | **HackerOne + Intigriti** | vulnerability research / security challenges |
 | **Google Cybersecurity Professional Certificate** | completed professional certificate |
@@ -262,7 +261,7 @@ I treat forecasting as a loop, not a one-shot prediction:
 
 ---
 
-## `07 // 365-day orbit`
+## `07 // orbital activity`
 
 A **self-hosted 365-day contribution field**, generated from my real GitHub contribution calendar:
 
@@ -274,7 +273,7 @@ A **self-hosted 365-day contribution field**, generated from my real GitHub cont
 
 ---
 
-## `08 // profile telemetry`
+## `08 // developer signal`
 
 These cards are generated inside this repository instead of depending on a live third-party image host.
 
