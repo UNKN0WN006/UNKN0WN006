@@ -1,28 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
-  <rect width="1200" height="520" rx="24" fill="#0d1117"/>
-  <rect x="18" y="18" width="1164" height="484" rx="18" fill="#111827" stroke="#1f2937" stroke-width="2"/>
-  <circle cx="48" cy="48" r="7" fill="#ef4444"/>
-  <circle cx="72" cy="48" r="7" fill="#f59e0b"/>
-  <circle cx="96" cy="48" r="7" fill="#22c55e"/>
-  <text x="126" y="56" fill="#9ca3af" font-family="monospace" font-size="18">sushar@github — research-terminal</text>
-  <text x="58" y="108" fill="#22c55e" font-family="monospace" font-size="22">sushar@github</text>
-  <text x="258" y="108" fill="#64748b" font-family="monospace" font-size="22">────────────────────────────────────────────────────────────────</text>
-  <text x="58" y="154" fill="#38bdf8" font-family="monospace" font-size="18">USER</text>
-  <text x="240" y="154" fill="#e5e7eb" font-family="monospace" font-size="18">Sushar Hembram</text>
-  <text x="58" y="188" fill="#38bdf8" font-family="monospace" font-size="18">BASE</text>
-  <text x="240" y="188" fill="#e5e7eb" font-family="monospace" font-size="18">Kolkata, India</text>
-  <text x="58" y="222" fill="#38bdf8" font-family="monospace" font-size="18">EDU</text>
-  <text x="240" y="222" fill="#e5e7eb" font-family="monospace" font-size="18">Jadavpur University — BE Information Technology '27</text>
-  <text x="58" y="256" fill="#38bdf8" font-family="monospace" font-size="18">PARALLEL</text>
-  <text x="240" y="256" fill="#e5e7eb" font-family="monospace" font-size="18">IIT Madras — BS Aeronautics &amp; Space Technology</text>
-  <text x="58" y="310" fill="#f59e0b" font-family="monospace" font-size="18">CORE</text>
-  <text x="240" y="310" fill="#e5e7eb" font-family="monospace" font-size="18">Quant Research • Forecasting • Machine Learning</text>
-  <text x="58" y="344" fill="#f59e0b" font-family="monospace" font-size="18">SECURITY</text>
-  <text x="240" y="344" fill="#e5e7eb" font-family="monospace" font-size="18">Threat Intelligence • Vulnerability Research • CTFs</text>
-  <text x="58" y="378" fill="#f59e0b" font-family="monospace" font-size="18">RESEARCH</text>
-  <text x="240" y="378" fill="#e5e7eb" font-family="monospace" font-size="18">Systematic Macro • Alternative Data • Financial NLP • Time Series</text>
-  <text x="58" y="432" fill="#a855f7" font-family="monospace" font-size="18">STATUS</text>
-  <text x="240" y="432" fill="#22c55e" font-family="monospace" font-size="18">[ BUILDING ]</text>
-  <text x="58" y="466" fill="#a855f7" font-family="monospace" font-size="18">PHILOSOPHY</text>
-  <text x="240" y="466" fill="#e5e7eb" font-family="monospace" font-size="18">Estimate → test → update → repeat.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="25%" stop-color="#22c55e"/>
+    <stop offset="50%" stop-color="#f59e0b"/>
+    <stop offset="75%" stop-color="#a855f7"/>
+    <stop offset="100%" stop-color="#fb7185"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="440" rx="22" fill="#0b1020"/>
+<rect x="18" y="18" width="1164" height="404" rx="18" fill="#101827" stroke="#293548" stroke-width="2"/>
+<rect x="18" y="18" width="1164" height="4" rx="2" fill="url(#edge)"/>
+<circle cx="48" cy="48" r="7" fill="#fb7185"/><circle cx="72" cy="48" r="7" fill="#f59e0b"/><circle cx="96" cy="48" r="7" fill="#22c55e"/>
+<text x="126" y="54" fill="#94a3b8" font-family="monospace" font-size="16">sushar@github : research-terminal</text>
+<g font-family="monospace" font-size="18">
+<text x="55" y="105" fill="#22d3ee">USER</text><text x="250" y="105" fill="#f8fafc">Sushar Hembram</text>
+<text x="55" y="141" fill="#22d3ee">BASE</text><text x="250" y="141" fill="#f8fafc">Kolkata, India</text>
+<text x="55" y="177" fill="#22d3ee">EDU</text><text x="250" y="177" fill="#f8fafc">Jadavpur University — BE Information Technology '27</text>
+<text x="55" y="213" fill="#22d3ee">PARALLEL</text><text x="250" y="213" fill="#f8fafc">IIT Madras — BS Aeronautics &amp; Space Technology</text>
+<text x="55" y="267" fill="#f59e0b">PRIMARY</text><text x="250" y="267" fill="#fde68a">Quant Research · Forecasting · Machine Learning</text>
+<text x="55" y="303" fill="#fb7185">SECURITY</text><text x="250" y="303" fill="#fecdd3">Threat Intelligence · Vulnerability Research · CTFs</text>
+<text x="55" y="339" fill="#a855f7">RESEARCH</text><text x="250" y="339" fill="#e9d5ff">Systematic Macro · NLP · Alternative Data · Time Series</text>
+<text x="55" y="393" fill="#22c55e">STATUS</text><text x="250" y="393" fill="#86efac">building / testing / updating</text>
+<text x="670" y="393" fill="#38bdf8">RULE</text><text x="760" y="393" fill="#bae6fd">evidence &gt; certainty</text>
+</g>
 </svg>

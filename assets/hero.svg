@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#07111f"/>
+    <stop offset="24%" stop-color="#082f49"/>
+    <stop offset="51%" stop-color="#312e81"/>
+    <stop offset="76%" stop-color="#701a75"/>
+    <stop offset="100%" stop-color="#7f1d1d"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22d3ee"/>
+    <stop offset="25%" stop-color="#22c55e"/>
+    <stop offset="50%" stop-color="#f59e0b"/>
+    <stop offset="75%" stop-color="#a855f7"/>
+    <stop offset="100%" stop-color="#fb7185"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="270" rx="24" fill="#070b13"/>
+<rect x="12" y="12" width="1176" height="246" rx="20" fill="url(#bg)" opacity=".92"/>
+<path d="M45 204 H1155" stroke="url(#line)" stroke-width="3" opacity=".9"/>
+<circle cx="72" cy="45" r="5" fill="#fb7185"/>
+<circle cx="92" cy="45" r="5" fill="#f59e0b"/>
+<circle cx="112" cy="45" r="5" fill="#22c55e"/>
+<text x="600" y="100" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="2">SUSHAR HEMBRAM</text>
+<text x="600" y="143" text-anchor="middle" fill="#dbeafe" font-family="Arial, sans-serif" font-size="18" font-weight="600">QUANTITATIVE RESEARCH  /  FORECASTING  /  SECURITY  /  MACHINE LEARNING</text>
+<g font-family="monospace" font-size="14" font-weight="700">
+  <rect x="180" y="173" width="155" height="28" rx="8" fill="#083344" stroke="#22d3ee"/>
+  <text x="257" y="192" text-anchor="middle" fill="#67e8f9">SYSTEMATIC MACRO</text>
+  <rect x="350" y="173" width="145" height="28" rx="8" fill="#14532d" stroke="#4ade80"/>
+  <text x="422" y="192" text-anchor="middle" fill="#86efac">FORECASTING</text>
+  <rect x="510" y="173" width="135" height="28" rx="8" fill="#4c1d95" stroke="#c084fc"/>
+  <text x="577" y="192" text-anchor="middle" fill="#e9d5ff">NLP / ML</text>
+  <rect x="660" y="173" width="165" height="28" rx="8" fill="#881337" stroke="#fb7185"/>
+  <text x="742" y="192" text-anchor="middle" fill="#fecdd3">SECURITY RESEARCH</text>
+  <rect x="840" y="173" width="180" height="28" rx="8" fill="#78350f" stroke="#fbbf24"/>
+  <text x="930" y="192" text-anchor="middle" fill="#fde68a">SCIENTIFIC SYSTEMS</text>
+</g>
+<text x="60" y="235" fill="#94a3b8" font-family="monospace" font-size="13">KOLKATA / UTC+05:30</text>
+<text x="1140" y="235" text-anchor="end" fill="#94a3b8" font-family="monospace" font-size="13">JU IT '27  ·  research mode: ON</text>
+</svg>

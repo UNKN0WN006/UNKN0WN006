@@ -1,240 +1,98 @@
-<!--
-===============================================================================
-  SUSHAR HEMBRAM — GITHUB PROFILE README
-  github.com/UNKN0WN006
-===============================================================================
--->
+<!-- SUSHAR HEMBRAM — GitHub Profile -->
+
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Sushar Hembram"/>
+</div>
 
 <div align="center">
 
-<img
-  width="100%"
-  height="190"
-  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,35:052e16,70:0f172a,100:020617&text=SUSHAR%20HEMBRAM&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Quantitative%20Research%20%E2%80%A2%20Forecasting%20%E2%80%A2%20Security%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=15&animation=fadeIn"
-  alt="Sushar Hembram"
-/>
+[![Views](https://komarev.com/ghpvc/?username=UNKN0WN006&label=VIEWS&color=7c3aed&style=flat-square)](https://github.com/UNKN0WN006)
+[![Followers](https://img.shields.io/github/followers/UNKN0WN006?label=FOLLOWERS&style=flat-square&logo=github&color=0891b2)](https://github.com/UNKN0WN006?tab=followers)
+[![Stars](https://img.shields.io/github/stars/UNKN0WN006?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&logo=github&color=d97706)](https://github.com/UNKN0WN006?tab=repositories)
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=Quantitative+Research+%7C+Forecasting+%7C+Alternative+Data;Cybersecurity+%7C+Threat+Intelligence+%7C+Security+Research;Machine+Learning+%7C+NLP+%7C+Research+Engineering;Systematic+Macro+%7C+Financial+NLP+%7C+Probability;Markets+%E2%80%A2+Systems+%E2%80%A2+Security+%E2%80%A2+Space"
-  alt="Research interests"
-/>
-
-<br>
-
-<code>researching uncertain systems — from markets to machines</code>
-
-<br><br>
-
-<a href="https://github.com/UNKN0WN006">
-  <img src="https://komarev.com/ghpvc/?username=UNKN0WN006&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" alt="Profile Views"/>
-</a>
-<a href="https://github.com/UNKN0WN006?tab=followers">
-  <img src="https://img.shields.io/github/followers/UNKN0WN006?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827" alt="Followers"/>
-</a>
-<a href="https://github.com/UNKN0WN006?tab=repositories">
-  <img src="https://img.shields.io/github/stars/UNKN0WN006?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&logo=github&color=16a34a" alt="Stars"/>
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/susharhembram">
-  <img src="https://img.shields.io/badge/LinkedIn-Sushar_Hembram-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:hembramsushar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hembramsushar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://medium.com/@hembramsushar">
-  <img src="https://img.shields.io/badge/Medium-Research_Notes-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Sushar_Hembram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/susharhembram)
+[![Email](https://img.shields.io/badge/MAIL-hembramsushar%40gmail.com-e11d48?style=flat-square&logo=gmail&logoColor=white)](mailto:hembramsushar@gmail.com)
+[![Medium](https://img.shields.io/badge/MEDIUM-notes_%26_writeups-171717?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hembramsushar)
 
 </div>
 
 ---
 
-## 🖥️ `sushar@research-terminal:~$ whoami`
+## `00 // identity`
 
 <div align="center">
-  <img src="./assets/terminal-card.svg" width="100%" alt="Sushar Hembram research terminal"/>
+  <img src="./assets/terminal-card.svg" width="100%" alt="Research terminal identity card"/>
 </div>
 
----
+I work on **forecasting, quantitative research, machine learning and security systems** — especially problems where the data is noisy, the environment changes, and confidence matters as much as the answer.
 
-## 🧭 Research Coordinates
+Most of that can be reduced to one question:
 
 <div align="center">
 
-![Quantitative Research](https://img.shields.io/badge/QUANTITATIVE_RESEARCH-111827?style=for-the-badge&logo=databricks&logoColor=22C55E)
-![Forecasting](https://img.shields.io/badge/FORECASTING-052E16?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Security Research](https://img.shields.io/badge/SECURITY_RESEARCH-052E16?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+### `P(outcome | evidence)`
 
-![Systematic Macro](https://img.shields.io/badge/Systematic_Macro-14532D?style=flat-square)
-![Alternative Data](https://img.shields.io/badge/Alternative_Data-0F172A?style=flat-square)
-![Financial NLP](https://img.shields.io/badge/Financial_NLP-581C87?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time_Series-1E293B?style=flat-square)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-164E63?style=flat-square)
-![Scientific Computing](https://img.shields.io/badge/Scientific_Computing-312E81?style=flat-square)
+**Given the evidence available now, what should I believe — and what would make me change my mind?**
 
 </div>
 
 ---
 
-## 👋 About Me
+## `01 // current research`
 
-```python
-class SusharHembram:
-    education = "Jadavpur University · IT '27"
+<div align="center">
+  <img src="./assets/research-board.svg" width="100%" alt="Current research board"/>
+</div>
 
-    research = [
-        "Quantitative Research",
-        "Forecasting",
-        "Machine Learning",
-        "Security Research"
-    ]
-
-    interests = [
-        "Systematic Macro",
-        "Alternative Data",
-        "Financial NLP",
-        "Threat Intelligence"
-    ]
-
-    long_game = "Aerospace & Scientific Systems"
-
-    philosophy = "Estimate → test → update → repeat."
-```
-
-I like problems where information is incomplete, environments change, signals are noisy, and the useful answer is rarely just **yes** or **no**.
-
-I am especially interested in:
-
-$$
-P(\text{outcome}\mid\text{evidence})
-$$
-
-and in asking:
-
-> **What is the probability? What evidence would change it? How much confidence should we place in the estimate?**
+<sub>The board separates work I am actively doing from research I am building toward. I would rather show a small honest pipeline than label every interest as “in progress.”</sub>
 
 ---
 
-## 🔭 Current Radar
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📈 Quantitative Research
-
-- Probabilistic forecasting
-- Systematic macro
-- Financial time series
-- Alternative data
-- Signal research
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Security Research
-
-- Vulnerability research
-- Threat intelligence
-- Reverse engineering
-- Adversarial systems
-- Security engineering
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Machine Learning / NLP
-
-- Financial NLP
-- Text summarisation
-- Few-shot learning
-- Forecasting models
-- Model evaluation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Scientific Systems
-
-- Aeronautics
-- Space systems
-- Control systems
-- Simulation
-- Scientific computing
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔬 Featured Research & Projects
+## `02 // selected work`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## 🌍 Permissioned Economy
-
-**Macro Forecasting · Geoeconomics · AI Infrastructure**
+### Permissioned Economy
+**macro forecasting / geoeconomics**
 
 Forecasting research developed for **Bridgewater × Global Citizen — Forecasting the Future 2026**.
 
-**20 probabilistic forecasts · 2026–2031**
+`20 binary forecasts` · `2026–2031`
 
-Research themes:
-
-- AI compute infrastructure
-- electricity and data-centre demand
-- semiconductor policy
-- critical minerals
-- global trade and tariffs
+**Questions I worked around**
+- AI compute and data-centre infrastructure
+- electricity and grid constraints
+- semiconductors and critical minerals
+- trade policy and tariffs
 - maritime infrastructure
-- reserve currencies
-- global macro transitions
+- FX reserves and global macro transitions
 
-**Methods**
+**Method**
+`base rates` `scenario analysis` `resolution rules` `evidence updates`
 
-`Probability Estimation` `Base Rates` `Scenario Analysis` `Resolution Criteria` `Evidence Tracking` `Forecast Updating`
-
-[![Research](https://img.shields.io/badge/VIEW_RESEARCH-111827?style=for-the-badge&logo=github)](https://github.com/UNKN0WN006?tab=repositories)
+[![research](https://img.shields.io/badge/OPEN_RESEARCH-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🕸️ Maayavapi
+### Maayavapi
+**threat intelligence / attacker behaviour**
 
-**AI-Powered Threat Intelligence Platform**
+AI-assisted SSH honeypot and threat-intelligence system for turning hostile sessions into structured signals.
 
-SSH honeypot + attack-intelligence system for real-time hostile-activity analysis.
-
-**Capabilities**
-
-- command analytics
+**Built around**
+- command and session telemetry
 - attack classification
 - IP reputation enrichment
 - geographic threat mapping
 - behavioural analysis
-- rule-based alerts
-
-**Stack**
+- rule-based alerting
 
 `Python` `React` `TypeScript` `Supabase`
 
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-052E16?style=for-the-badge&logo=github)](https://github.com/UNKN0WN006?tab=repositories)
+[![project](https://img.shields.io/badge/OPEN_PROJECT-e11d48?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
 
 </td>
 </tr>
@@ -242,50 +100,38 @@ SSH honeypot + attack-intelligence system for real-time hostile-activity analysi
 <tr>
 <td width="50%" valign="top">
 
-## 🧬 NOESIS
+### NOESIS
+**repository security intelligence**
 
 **Nested Orchestration of Exploitability & Structure Insight System**
 
-Repository-security intelligence for analysing software architecture and reasoning about exploitability.
-
-**Analyses**
-
+Repository-analysis system that reasons across:
 - authentication
 - authorization
 - dependencies
 - trust boundaries
 - data flow
-- repository architecture
+- architectural exploitability
 
-**Stack**
+`Python` `FastAPI` `GitHub API` `Next.js`
 
-`FastAPI` `Python` `GitHub API` `Next.js`
-
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github)](https://github.com/UNKN0WN006?tab=repositories)
+[![project](https://img.shields.io/badge/OPEN_PROJECT-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
 
 </td>
-
 <td width="50%" valign="top">
 
-## 🎥 Few-Shot Multimedia Classification
+### Few-Shot Multimedia Classification
+**computer vision / meta-learning**
 
-**🥉 3rd Place — COMSYS Hackathon IV**
+**3rd Place — COMSYS Hackathon IV**
 
-Few-shot multimedia classification using deep visual representations and temporal modelling.
+Worked on few-shot video classification using deep visual representations and temporal modelling.
 
-**Selected video accuracy: 0.818**
+**Selected result:** `0.818 video accuracy`
 
-Research areas:
+`ResNet50` `LRCN` `Few-Shot Learning` `Meta-Learning`
 
-- ResNet50 feature extraction
-- LRCN architecture
-- few-shot learning
-- meta-learning
-- multimodal experimentation
-
-`PyTorch` `TensorFlow` `Computer Vision`
-
-[![Research](https://img.shields.io/badge/VIEW_RESEARCH-052E16?style=for-the-badge&logo=github)](https://github.com/UNKN0WN006?tab=repositories)
+[![research](https://img.shields.io/badge/OPEN_RESEARCH-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
 
 </td>
 </tr>
@@ -293,306 +139,69 @@ Research areas:
 
 ---
 
-## 🧱 Currently Building
+## `03 // forecast lab`
+
+I treat forecasting as a loop, not a one-shot prediction:
 
 <div align="center">
 
-| Project / Research Track | Focus | Status |
-|---|---|---|
-| 📊 **Macro Forecasting Lab** | Inflation · Rates · GDP · Energy · FX | ![ACTIVE](https://img.shields.io/badge/ACTIVE-16A34A?style=flat-square) |
-| 🎯 **Forecast Calibration Lab** | Brier Score · Probability Updates · Resolution Tracking | ![ACTIVE](https://img.shields.io/badge/ACTIVE-16A34A?style=flat-square) |
-| 📰 **Financial NLP** | Policy · Central Banks · Events · Market Response | ![RESEARCH](https://img.shields.io/badge/RESEARCH-7C3AED?style=flat-square) |
-| 🛡️ **Cyber Risk Event Study** | Security Incidents → Market Impact | ![BUILDING](https://img.shields.io/badge/BUILDING-0284C7?style=flat-square) |
-| 📈 **SignalForge** | Signal Hypothesis · Backtesting · Robustness | ![BUILDING](https://img.shields.io/badge/BUILDING-0284C7?style=flat-square) |
-| 🚀 **Scientific Systems** | Aerospace · Control · Simulation | ![LONG--TERM](https://img.shields.io/badge/LONG--TERM-475569?style=flat-square) |
-
-</div>
-
-> `research mode:` **hypothesis → evidence → experiment → evaluation → revision**
-
----
-
-## 🎯 Forecasting Laboratory
-
-I treat forecasting as an iterative research process rather than a one-time prediction.
-
-<div align="center">
-
-### `BASE RATE → PRIOR → EVIDENCE → UPDATE → RESOLUTION → CALIBRATION`
+![Base Rate](https://img.shields.io/badge/01_BASE_RATE-334155?style=for-the-badge)
+![Prior](https://img.shields.io/badge/02_PRIOR-0891b2?style=for-the-badge)
+![Evidence](https://img.shields.io/badge/03_EVIDENCE-d97706?style=for-the-badge)
+![Update](https://img.shields.io/badge/04_UPDATE-7c3aed?style=for-the-badge)
+![Resolution](https://img.shields.io/badge/05_RESOLUTION-e11d48?style=for-the-badge)
+![Calibration](https://img.shields.io/badge/06_CALIBRATION-16a34a?style=for-the-badge)
 
 <br>
 
-![Base Rates](https://img.shields.io/badge/01-BASE_RATES-111827?style=for-the-badge)
-![Prior](https://img.shields.io/badge/02-PRIOR-14532D?style=for-the-badge)
-![Evidence](https://img.shields.io/badge/03-EVIDENCE-164E63?style=for-the-badge)
-![Update](https://img.shields.io/badge/04-UPDATE-581C87?style=for-the-badge)
-![Resolution](https://img.shields.io/badge/05-RESOLUTION-854D0E?style=for-the-badge)
-![Calibration](https://img.shields.io/badge/06-CALIBRATION-166534?style=for-the-badge)
-
-<br><br>
-
-![Macroeconomics](https://img.shields.io/badge/MACROECONOMICS-14532D?style=flat-square)
-![Interest Rates](https://img.shields.io/badge/INTEREST_RATES-0F172A?style=flat-square)
-![Energy](https://img.shields.io/badge/ENERGY-854D0E?style=flat-square)
-![Markets](https://img.shields.io/badge/MARKETS-164E63?style=flat-square)
-![AI](https://img.shields.io/badge/AI-581C87?style=flat-square)
-![Geopolitics](https://img.shields.io/badge/GEOPOLITICS-7F1D1D?style=flat-square)
+![Macro](https://img.shields.io/badge/MACRO-155e75?style=flat-square)
+![Rates](https://img.shields.io/badge/RATES-1d4ed8?style=flat-square)
+![Energy](https://img.shields.io/badge/ENERGY-b45309?style=flat-square)
+![Markets](https://img.shields.io/badge/MARKETS-047857?style=flat-square)
+![AI](https://img.shields.io/badge/AI-6d28d9?style=flat-square)
+![Geopolitics](https://img.shields.io/badge/GEOPOLITICS-be123c?style=flat-square)
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/forecast-engine.svg" width="100%" alt="Forecast Engine"/>
+  <img src="./assets/forecast-engine.svg" width="100%" alt="Illustrative forecast probability update"/>
 </div>
+
+<sub>The values in the panel above are illustrative; the workflow is the important part. Public forecasting work is tracked separately from confidential platforms.</sub>
 
 ---
 
-## 🛡️ Security Operations
-
-My security work spans the full path from attack-surface discovery to threat analysis and defensive intelligence.
-
-<div align="center">
-
-### `RECON → ATTACK SURFACE → VULNERABILITY → EXPLOITABILITY → THREAT INTEL → RESPONSE`
-
-<br>
-
-![Recon](https://img.shields.io/badge/01-RECON-111827?style=for-the-badge)
-![Attack Surface](https://img.shields.io/badge/02-ATTACK_SURFACE-164E63?style=for-the-badge)
-![Vulnerability](https://img.shields.io/badge/03-VULNERABILITY-7F1D1D?style=for-the-badge)
-![Exploitability](https://img.shields.io/badge/04-EXPLOITABILITY-581C87?style=for-the-badge)
-![Threat Intelligence](https://img.shields.io/badge/05-THREAT_INTEL-854D0E?style=for-the-badge)
-![Response](https://img.shields.io/badge/06-RESPONSE-14532D?style=for-the-badge)
-
-<br><br>
-
-<a href="https://www.hackerone.com/">
-<img src="https://img.shields.io/badge/HackerOne-Research-111111?style=for-the-badge&logo=hackerone&logoColor=white"/>
-</a>
-
-<img src="https://img.shields.io/badge/Intigriti-Vulnerability_Research-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HackTheBox-Security_Labs-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-
-<img src="https://img.shields.io/badge/TryHackMe-Security_Labs-111827?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-
-<br><br>
-
-`OWASP` · `OSINT` · `Threat Intelligence` · `Reverse Engineering` · `Penetration Testing` · `Incident Analysis`
-
-</div>
-
----
-
-## 🏆 Proof of Work
-
-| | Achievement | Domain |
-|---|---|---|
-| 🥉 | **3rd Place — COMSYS Hackathon IV** | Few-shot multimedia classification |
-| 🏆 | **Top 3 — Google SecOps MCP Challenge** | Security automation |
-| 🌍 | **Forecasting the Future 2026 — Bridgewater × Global Citizen** | Macro / probabilistic forecasting |
-| 🔭 | **2,800+ NASA citizen-science classifications** | Scientific data analysis |
-| 🛡️ | **HackerOne & Intigriti research** | Vulnerability research |
-| 🎓 | **Google Cybersecurity Professional Certificate** | Cybersecurity |
-| 💡 | **Eureka! Junior Semifinalist — IIT Bombay** | Entrepreneurship |
-| 🚀 | **IIT Madras Aeronautics & Space Technology** | Aerospace systems |
-
----
-
-# ⚔️ Technical Arsenal
-
-## `01 // Languages`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-</div>
-
-## `02 // Quant • Data • Machine Learning`
-
-<div align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-0F172A?style=flat-square&logo=scipy)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=flat-square&logo=scikitlearn)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=flat-square&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0F172A?style=flat-square&logo=huggingface)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter)
-
-</div>
-
-## `03 // Engineering`
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-052E16?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/Git-052E16?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/Docker-052E16?style=flat-square&logo=docker)
-![FastAPI](https://img.shields.io/badge/FastAPI-052E16?style=flat-square&logo=fastapi)
-![React](https://img.shields.io/badge/React-052E16?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-052E16?style=flat-square&logo=nextdotjs)
-![Supabase](https://img.shields.io/badge/Supabase-052E16?style=flat-square&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-052E16?style=flat-square&logo=postgresql)
-![REST](https://img.shields.io/badge/REST_API-052E16?style=flat-square)
-
-</div>
-
-## `04 // Security`
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-111827?style=flat-square&logo=kalilinux)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logo=burpsuite)
-![OWASP](https://img.shields.io/badge/OWASP-111827?style=flat-square&logo=owasp)
-![Security Research](https://img.shields.io/badge/Security_Research-111827?style=flat-square)
-![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-111827?style=flat-square)
-
-</div>
-
----
-
-## 🌐 Research & Competition Platforms
-
-<div align="center">
-
-![WorldQuant](https://img.shields.io/badge/WorldQuant_BRAIN-Alpha_Research-111827?style=for-the-badge)
-![Metaculus](https://img.shields.io/badge/Metaculus-Probabilistic_Forecasting-581C87?style=for-the-badge)
-![Good Judgment Open](https://img.shields.io/badge/Good_Judgment_Open-Forecasting-14532D?style=for-the-badge)
-![Hypermind](https://img.shields.io/badge/Hypermind-Prediction_Markets-164E63?style=for-the-badge)
-![Codeforces](https://img.shields.io/badge/Codeforces-Competitive_Programming-111827?style=for-the-badge&logo=codeforces)
-![HackerOne](https://img.shields.io/badge/HackerOne-Vulnerability_Research-111827?style=for-the-badge&logo=hackerone)
-
-</div>
-
----
-
-## 📊 GitHub Command Centre
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UNKN0WN006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=UNKN0WN006&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNKN0WN006&layout=compact&theme=github_dark&hide_border=true&langs_count=10" alt="Top languages"/>
-
-<img width="51%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UNKN0WN006&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
-
-</div>
-
----
-
-## 📈 Activity Telemetry
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UNKN0WN006&bg_color=0d1117&color=22c55e&line=00d9ff&point=a855f7&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## 🧬 Contribution DNA
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/UNKN0WN006/UNKN0WN006/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🏅 Trophy Cabinet
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=UNKN0WN006&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🎮 `github.exe`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│             CONTRIBUTION ENGINE ONLINE                   │
-│                                                          │
-│    ░ ▓ ▓ ░ ▓▓▓ ░ ▓ ▓▓ ░░ ▓▓▓▓ ░▓▓ ▓ ░▓▓               │
-│                                                          │
-│              🐍  CONSUME COMMITS                         │
-│                                                          │
-│       BUILD → BREAK → RESEARCH → REBUILD                 │
-│                                                          │
-│   RESEARCH ████████████████░░░      ACTIVE               │
-│   COFFEE   ████████████████████     100%                 │
-│   CURIOSITY████████████████████     100%                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🌌 Outside the Terminal
+## `04 // security`
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="56%" valign="top">
 
-### 📚 Research
+**My security loop**
 
-Forecasting  
-Quantitative Finance  
-Machine Learning  
-Security
+`recon → attack surface → vulnerability → exploitability → threat intelligence → response`
 
-</td>
-<td width="25%" align="center">
+<br>
 
-### 🚀 Space
-
-Aeronautics  
-Space Systems  
-Control  
-Scientific Computing
+![Recon](https://img.shields.io/badge/RECON-0e7490?style=flat-square)
+![Vulnerability Research](https://img.shields.io/badge/VULNERABILITY_RESEARCH-be123c?style=flat-square)
+![Threat Intel](https://img.shields.io/badge/THREAT_INTELLIGENCE-7c3aed?style=flat-square)
+![Reverse Engineering](https://img.shields.io/badge/REVERSE_ENGINEERING-d97706?style=flat-square)
+![IR](https://img.shields.io/badge/INCIDENT_ANALYSIS-15803d?style=flat-square)
 
 </td>
-<td width="25%" align="center">
+<td width="44%" valign="top">
 
-### 🛡️ Cyber
+**Platforms / practice**
 
-CTFs  
-Bug Bounty  
-Threat Intelligence  
-Reverse Engineering
+![HackerOne](https://img.shields.io/badge/HackerOne-Research-171717?style=flat-square&logo=hackerone&logoColor=white)
+![Intigriti](https://img.shields.io/badge/Intigriti-Research-6d28d9?style=flat-square)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Labs-111827?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-111827?style=flat-square&logo=tryhackme&logoColor=red)
 
-</td>
-<td width="25%" align="center">
-
-### ☕ Life
-
-Coffee  
-Science Fiction  
-Systems  
-Building Things
+`OWASP` `OSINT` `Linux` `Penetration Testing`
 
 </td>
 </tr>
@@ -600,59 +209,148 @@ Building Things
 
 ---
 
-## 🗺️ The Long Game
+## `05 // proof of work`
 
-```text
-                           UNCERTAINTY
-                               │
-              ┌────────────────┼────────────────┐
-              │                │                │
-              ▼                ▼                ▼
-        FORECASTING        SECURITY         SCIENCE
-              │                │                │
-              ▼                ▼                ▼
-           MARKETS          SYSTEMS         AEROSPACE
-              │                │                │
-              └────────────────┼────────────────┘
-                               │
-                               ▼
-                       DECISION SYSTEMS
-```
-
-My interests may look broad at first glance, but they orbit a common problem:
-
-> **How do we understand, predict and engineer complex systems under uncertainty?**
+| Signal | Evidence |
+|---|---|
+| **COMSYS Hackathon IV** | 3rd Place · few-shot multimedia classification |
+| **Google SecOps MCP Challenge** | Top 3 · security automation |
+| **Forecasting the Future 2026** | 20-outcome macro / geopolitical forecasting submission |
+| **NASA citizen science** | 2,800+ astronomical classifications |
+| **HackerOne + Intigriti** | vulnerability research / security challenges |
+| **Google Cybersecurity Professional Certificate** | completed professional certificate |
+| **Eureka! Junior — IIT Bombay** | semifinalist |
 
 ---
 
-## 📡 Establish Connection
+## `06 // toolchain`
 
 <div align="center">
 
-<a href="mailto:hembramsushar@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+**languages**
 
-<a href="https://linkedin.com/in/susharhembram">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-c2410c?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<a href="https://github.com/UNKN0WN006">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+**quant / data / ML**
 
-<a href="https://medium.com/@hembramsushar">
-<img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=111827)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=111827)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**systems / engineering**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=111827)
+
+</div>
+
+---
+
+## `07 // 365-day orbit`
+
+A **self-hosted 365-day contribution field**, generated from my real GitHub contribution calendar:
+
+<div align="center">
+  <img src="./assets/orbit-contributions.svg" width="100%" alt="365-day contribution orbit"/>
+</div>
+
+<sub>Generated by `.github/workflows/orbit.yml` and refreshed automatically.</sub>
+
+---
+
+## `08 // profile telemetry`
+
+These cards are generated inside this repository instead of depending on a live third-party image host.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img src="./profile/signal-field-wide-light.svg" width="100%" alt="365-day GitHub activity and public metrics">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg">
+  <img src="./profile/activity-consistency-wide-light.svg" width="100%" alt="Contribution consistency and streaks">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg">
+  <img src="./profile/language-composition-wide-light.svg" width="100%" alt="Public repository language composition">
+</picture>
+
+</div>
+
+---
+
+## `09 // platforms`
+
+<div align="center">
+
+![WorldQuant BRAIN](https://img.shields.io/badge/WorldQuant_BRAIN-alpha_research-111827?style=for-the-badge)
+![Metaculus](https://img.shields.io/badge/Metaculus-forecasting-6d28d9?style=for-the-badge)
+![GJOpen](https://img.shields.io/badge/Good_Judgment_Open-forecasting-047857?style=for-the-badge)
+![Hypermind](https://img.shields.io/badge/Hypermind-prediction_markets-0e7490?style=for-the-badge)
+![Codeforces](https://img.shields.io/badge/Codeforces-competitive_programming-1f2937?style=for-the-badge&logo=codeforces)
+![HackerOne](https://img.shields.io/badge/HackerOne-security_research-171717?style=for-the-badge&logo=hackerone)
+
+</div>
+
+---
+
+## `10 // long game`
+
+```text
+                     uncertainty
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+    forecasting       security         science
+        │                │                │
+      markets          systems        aerospace
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                 decision systems
+```
+
+> **How do we understand, predict and engineer complex systems when the world refuses to stay still?**
+
+---
+
+## `11 // outside the terminal`
+
+`quant research` · `cybersecurity` · `aeronautics` · `science fiction` · `coffee` · `strange systems worth building`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-e11d48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hembramsushar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/susharhembram)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UNKN0WN006)
+[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hembramsushar)
 
 <br><br>
 
 ### `Life orbiting around rockets, algorithms and coffee.`
-
-**prediction · evidence · markets · security · systems · space**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,35:052e16,70:0f172a,100:020617" alt="Footer"/>
 
 </div>

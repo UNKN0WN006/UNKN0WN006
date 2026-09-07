@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="455" viewBox="0 0 1200 455">
+<rect width="1200" height="455" rx="22" fill="#0b1020"/>
+<text x="42" y="52" fill="#f8fafc" font-family="monospace" font-size="23" font-weight="700">CURRENT RESEARCH BOARD</text>
+<text x="1155" y="52" text-anchor="end" fill="#64748b" font-family="monospace" font-size="13">NOW / NEXT / LATER</text>
+<rect x="42" y="82" width="540" height="92" rx="14" fill="#082f49" stroke="#22d3ee"/>
+<text x="64" y="112" fill="#67e8f9" font-family="monospace" font-size="17" font-weight="700">01  PROBABILISTIC FORECASTING</text>
+<text x="64" y="140" fill="#cbd5e1" font-family="monospace" font-size="14">macro · markets · calibration · evidence tracking</text>
+<rect x="466" y="101" width="92" height="28" rx="8" fill="#164e63"/><text x="512" y="120" text-anchor="middle" fill="#cffafe" font-family="monospace" font-size="12" font-weight="700">ACTIVE</text>
+<rect x="618" y="82" width="540" height="92" rx="14" fill="#3b0764" stroke="#c084fc"/>
+<text x="640" y="112" fill="#e9d5ff" font-family="monospace" font-size="17" font-weight="700">02  NLP / TEXT SUMMARISATION</text>
+<text x="640" y="140" fill="#cbd5e1" font-family="monospace" font-size="14">recent papers · architectures · evaluation · FIRE track</text>
+<rect x="1040" y="101" width="94" height="28" rx="8" fill="#581c87"/><text x="1087" y="120" text-anchor="middle" fill="#f3e8ff" font-family="monospace" font-size="12" font-weight="700">ACTIVE</text>
+<rect x="42" y="195" width="540" height="92" rx="14" fill="#4c0519" stroke="#fb7185"/>
+<text x="64" y="225" fill="#fecdd3" font-family="monospace" font-size="17" font-weight="700">03  SECURITY INTELLIGENCE</text>
+<text x="64" y="253" fill="#cbd5e1" font-family="monospace" font-size="14">attack behaviour · exploitability · threat data</text>
+<rect x="466" y="214" width="92" height="28" rx="8" fill="#881337"/><text x="512" y="233" text-anchor="middle" fill="#ffe4e6" font-family="monospace" font-size="12" font-weight="700">ACTIVE</text>
+<rect x="618" y="195" width="540" height="92" rx="14" fill="#422006" stroke="#f59e0b"/>
+<text x="640" y="225" fill="#fde68a" font-family="monospace" font-size="17" font-weight="700">04  QUANT / SIGNAL RESEARCH</text>
+<text x="640" y="253" fill="#cbd5e1" font-family="monospace" font-size="14">time series · signals · backtests · robustness</text>
+<rect x="1020" y="214" width="114" height="28" rx="8" fill="#78350f"/><text x="1077" y="233" text-anchor="middle" fill="#fef3c7" font-family="monospace" font-size="12" font-weight="700">BUILDING</text>
+<rect x="42" y="308" width="540" height="92" rx="14" fill="#052e16" stroke="#4ade80"/>
+<text x="64" y="338" fill="#bbf7d0" font-family="monospace" font-size="17" font-weight="700">05  CYBER RISK × MARKETS</text>
+<text x="64" y="366" fill="#cbd5e1" font-family="monospace" font-size="14">event studies · abnormal returns · volatility response</text>
+<rect x="458" y="327" width="100" height="28" rx="8" fill="#14532d"/><text x="508" y="346" text-anchor="middle" fill="#dcfce7" font-family="monospace" font-size="12" font-weight="700">EXPLORING</text>
+<rect x="618" y="308" width="540" height="92" rx="14" fill="#172554" stroke="#60a5fa"/>
+<text x="640" y="338" fill="#dbeafe" font-family="monospace" font-size="17" font-weight="700">06  SCIENTIFIC SYSTEMS</text>
+<text x="640" y="366" fill="#cbd5e1" font-family="monospace" font-size="14">aerospace · control · simulation · scientific computing</text>
+<rect x="997" y="327" width="137" height="28" rx="8" fill="#1e3a8a"/><text x="1065" y="346" text-anchor="middle" fill="#dbeafe" font-family="monospace" font-size="12" font-weight="700">LONG HORIZON</text>
+<text x="42" y="432" fill="#64748b" font-family="monospace" font-size="13">status is descriptive, not a progress percentage</text>
+</svg>

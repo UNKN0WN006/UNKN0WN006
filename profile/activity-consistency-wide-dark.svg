@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="210" viewBox="0 0 846 210">
+<rect width="846" height="210" rx="18" fill="#0b1020"/>
+<rect x="12" y="12" width="822" height="186" rx="14" fill="#101827" stroke="#a855f7"/>
+<text x="35" y="65" fill="#f8fafc" font-family="monospace" font-size="22" font-weight="700">ACTIVITY CONSISTENCY</text>
+<text x="35" y="102" fill="#94a3b8" font-family="monospace" font-size="14">active days + streaks + contribution field</text>
+<rect x="35" y="132" width="180" height="8" rx="4" fill="#a855f7"/>
+<text x="35" y="170" fill="#94a3b8" font-family="monospace" font-size="12">Run Update Profile Telemetry once to replace this placeholder with live GitHub data.</text>
+</svg>
