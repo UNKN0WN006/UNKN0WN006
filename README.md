@@ -7,24 +7,45 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:052e16,70:0f172a,100:020617&text=SUSHAR%20HEMBRAM&fontColor=ffffff&fontSize=46&fontAlignY=35&desc=Quantitative%20Research%20%E2%80%A2%20Forecasting%20%E2%80%A2%20Security%20%E2%80%A2%20Machine%20Learning&descAlignY=56&descSize=16&animation=fadeIn" alt="Header"/>
+<img
+  width="100%"
+  height="190"
+  src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,35:052e16,70:0f172a,100:020617&text=SUSHAR%20HEMBRAM&fontColor=ffffff&fontSize=44&fontAlignY=35&desc=Quantitative%20Research%20%E2%80%A2%20Forecasting%20%E2%80%A2%20Security%20%E2%80%A2%20Machine%20Learning&descAlignY=58&descSize=15&animation=fadeIn"
+  alt="Sushar Hembram"
+/>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=900&color=22C55E&center=true&vCenter=true&width=950&lines=Quantitative+Research+%7C+Forecasting+%7C+Alternative+Data;Cybersecurity+%7C+Threat+Intelligence+%7C+Security+Research;Machine+Learning+%7C+NLP+%7C+Research+Engineering;Systematic+Macro+%7C+Financial+NLP+%7C+Probability;Markets+%E2%80%A2+Systems+%E2%80%A2+Security+%E2%80%A2+Space"
-    alt="Typing SVG"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=22C55E&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=42&lines=Quantitative+Research+%7C+Forecasting+%7C+Alternative+Data;Cybersecurity+%7C+Threat+Intelligence+%7C+Security+Research;Machine+Learning+%7C+NLP+%7C+Research+Engineering;Systematic+Macro+%7C+Financial+NLP+%7C+Probability;Markets+%E2%80%A2+Systems+%E2%80%A2+Security+%E2%80%A2+Space"
+  alt="Research interests"
+/>
+
+<br>
+
+<code>researching uncertain systems — from markets to machines</code>
+
+<br><br>
+
+<a href="https://github.com/UNKN0WN006">
+  <img src="https://komarev.com/ghpvc/?username=UNKN0WN006&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/UNKN0WN006?tab=followers">
+  <img src="https://img.shields.io/github/followers/UNKN0WN006?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827" alt="Followers"/>
+</a>
+<a href="https://github.com/UNKN0WN006?tab=repositories">
+  <img src="https://img.shields.io/github/stars/UNKN0WN006?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&logo=github&color=16a34a" alt="Stars"/>
 </a>
 
-### `researching uncertain systems — from markets to machines`
+<br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=UNKN0WN006&label=PROFILE%20VIEWS&color=16a34a&style=for-the-badge)](https://github.com/UNKN0WN006)
-[![Followers](https://img.shields.io/github/followers/UNKN0WN006?label=FOLLOWERS&style=for-the-badge&logo=github&color=111827)](https://github.com/UNKN0WN006?tab=followers)
-[![Stars](https://img.shields.io/github/stars/UNKN0WN006?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=for-the-badge&logo=github&color=16a34a)](https://github.com/UNKN0WN006?tab=repositories)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sushar_Hembram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/susharhembram)
-[![Email](https://img.shields.io/badge/Email-hembramsushar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hembramsushar@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Research_Notes-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hembramsushar)
+<a href="https://linkedin.com/in/susharhembram">
+  <img src="https://img.shields.io/badge/LinkedIn-Sushar_Hembram-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hembramsushar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hembramsushar%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://medium.com/@hembramsushar">
+  <img src="https://img.shields.io/badge/Medium-Research_Notes-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+</a>
 
 </div>
 
@@ -62,35 +83,23 @@
 
 ```python
 class SusharHembram:
-    university = "Jadavpur University"
-    degree = "BE Information Technology"
-    graduating = 2027
+    education = "Jadavpur University · IT '27"
 
-    primary_focus = [
+    research = [
         "Quantitative Research",
-        "Probabilistic Forecasting",
+        "Forecasting",
         "Machine Learning",
+        "Security Research"
     ]
 
-    secondary_focus = [
-        "Cybersecurity",
-        "Security Research",
-        "Threat Intelligence",
-    ]
-
-    research_interests = [
+    interests = [
         "Systematic Macro",
-        "Financial Time Series",
         "Alternative Data",
         "Financial NLP",
-        "Decision-Making Under Uncertainty",
+        "Threat Intelligence"
     ]
 
-    long_term_interests = [
-        "Aerospace Systems",
-        "Scientific Computing",
-        "Control Systems",
-    ]
+    long_game = "Aerospace & Scientific Systems"
 
     philosophy = "Estimate → test → update → repeat."
 ```
@@ -287,92 +296,55 @@ Research areas:
 
 ## 🧱 Currently Building
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                         RESEARCH PIPELINE                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  📊 MACRO FORECASTING LAB                                       ║
-║     Inflation • GDP • Rates • Energy • FX                        ║
-║                                                                  ║
-║  📈 SIGNALFORGE                                                 ║
-║     Hypothesis → Signal → Backtest → Robustness                  ║
-║                                                                  ║
-║  🎯 FORECAST CALIBRATION LAB                                    ║
-║     Brier Score • Calibration • Probability Updates              ║
-║                                                                  ║
-║  📰 FINANCIAL NLP                                               ║
-║     Central Banks • Policy • Earnings • Market Response          ║
-║                                                                  ║
-║  🛡️ CYBER RISK EVENT STUDY                                     ║
-║     Security Incidents → Equity / Volatility Response            ║
-║                                                                  ║
-║  🚀 SCIENTIFIC SYSTEMS                                          ║
-║     Aerospace • Control • Simulation • Computing                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| Project / Research Track | Focus | Status |
+|---|---|---|
+| 📊 **Macro Forecasting Lab** | Inflation · Rates · GDP · Energy · FX | ![ACTIVE](https://img.shields.io/badge/ACTIVE-16A34A?style=flat-square) |
+| 🎯 **Forecast Calibration Lab** | Brier Score · Probability Updates · Resolution Tracking | ![ACTIVE](https://img.shields.io/badge/ACTIVE-16A34A?style=flat-square) |
+| 📰 **Financial NLP** | Policy · Central Banks · Events · Market Response | ![RESEARCH](https://img.shields.io/badge/RESEARCH-7C3AED?style=flat-square) |
+| 🛡️ **Cyber Risk Event Study** | Security Incidents → Market Impact | ![BUILDING](https://img.shields.io/badge/BUILDING-0284C7?style=flat-square) |
+| 📈 **SignalForge** | Signal Hypothesis · Backtesting · Robustness | ![BUILDING](https://img.shields.io/badge/BUILDING-0284C7?style=flat-square) |
+| 🚀 **Scientific Systems** | Aerospace · Control · Simulation | ![LONG--TERM](https://img.shields.io/badge/LONG--TERM-475569?style=flat-square) |
+
+</div>
+
+> `research mode:` **hypothesis → evidence → experiment → evaluation → revision**
 
 ---
 
 ## 🎯 Forecasting Laboratory
 
-My forecasting process:
-
-```text
-                    ┌─────────────┐
-                    │  BASE RATE  │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    PRIOR    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │ COLLECT EVIDENCE  │
-                 └─────────┬─────────┘
-                           │
-                ┌──────────┴──────────┐
-                │                     │
-                ▼                     ▼
-        SUPPORTING EVIDENCE    CONTRARY EVIDENCE
-                │                     │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                  ┌────────────────┐
-                  │ UPDATE P(X)    │
-                  └───────┬────────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │ RESOLUTION  │
-                   └──────┬──────┘
-                          │
-                          ▼
-                   ┌─────────────┐
-                   │ CALIBRATION │
-                   └──────┬──────┘
-                          │
-                          ▼
-                     LEARN / REPEAT
-```
+I treat forecasting as an iterative research process rather than a one-time prediction.
 
 <div align="center">
 
-![Macroeconomics](https://img.shields.io/badge/MACROECONOMICS-14532D?style=for-the-badge)
-![Rates](https://img.shields.io/badge/INTEREST_RATES-0F172A?style=for-the-badge)
-![Energy](https://img.shields.io/badge/ENERGY-854D0E?style=for-the-badge)
-![Markets](https://img.shields.io/badge/MARKETS-164E63?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-581C87?style=for-the-badge)
-![Geopolitics](https://img.shields.io/badge/GEOPOLITICS-7F1D1D?style=for-the-badge)
+### `BASE RATE → PRIOR → EVIDENCE → UPDATE → RESOLUTION → CALIBRATION`
+
+<br>
+
+![Base Rates](https://img.shields.io/badge/01-BASE_RATES-111827?style=for-the-badge)
+![Prior](https://img.shields.io/badge/02-PRIOR-14532D?style=for-the-badge)
+![Evidence](https://img.shields.io/badge/03-EVIDENCE-164E63?style=for-the-badge)
+![Update](https://img.shields.io/badge/04-UPDATE-581C87?style=for-the-badge)
+![Resolution](https://img.shields.io/badge/05-RESOLUTION-854D0E?style=for-the-badge)
+![Calibration](https://img.shields.io/badge/06-CALIBRATION-166534?style=for-the-badge)
+
+<br><br>
+
+![Macroeconomics](https://img.shields.io/badge/MACROECONOMICS-14532D?style=flat-square)
+![Interest Rates](https://img.shields.io/badge/INTEREST_RATES-0F172A?style=flat-square)
+![Energy](https://img.shields.io/badge/ENERGY-854D0E?style=flat-square)
+![Markets](https://img.shields.io/badge/MARKETS-164E63?style=flat-square)
+![AI](https://img.shields.io/badge/AI-581C87?style=flat-square)
+![Geopolitics](https://img.shields.io/badge/GEOPOLITICS-7F1D1D?style=flat-square)
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="./assets/forecast-engine.svg" width="100%" alt="Forecast engine"/>
+  <img src="./assets/forecast-engine.svg" width="100%" alt="Forecast Engine"/>
 </div>
 
 ---
