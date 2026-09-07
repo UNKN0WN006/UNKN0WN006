@@ -105,7 +105,7 @@ $$
 
 and in asking:
 
-> **What is the probability? What evidence would change it? How much confidence should we place in the model?**
+> **What is the probability? What evidence would change it? How much confidence should we place in the estimate?**
 
 ---
 
