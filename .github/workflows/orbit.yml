@@ -1,4 +1,4 @@
-name: Update 365-Day Orbit
+name: Update Solar Orbit
 
 on:
   workflow_dispatch:
@@ -9,13 +9,14 @@ permissions:
   contents: write
 
 jobs:
-  orbit:
+  solar-orbit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v6
 
-      - name: Generate contribution orbit
+      - name: Generate GitHub solar orbit
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: python scripts/generate_orbit_graph.py
@@ -24,9 +25,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/orbit-contributions.svg
+          git add assets/github-solar-orbit.svg
           if git diff --cached --quiet; then
             exit 0
           fi
-          git commit -m "Update 365-day contribution orbit"
+          git commit -m "Update GitHub solar orbit"
           git push
