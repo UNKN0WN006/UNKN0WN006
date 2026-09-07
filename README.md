@@ -99,9 +99,9 @@ I like problems where information is incomplete, environments change, signals ar
 
 I am especially interested in:
 
-\[
-P(\text{outcome} \mid \text{evidence})
-\]
+$$
+P(\text{outcome}\mid\text{evidence})
+$$
 
 and in asking:
 
