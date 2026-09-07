@@ -304,19 +304,42 @@ A compact snapshot of my public GitHub activity: contribution intensity, commits
 ---
 
 
-## `09 // platforms`
+## `09 // research platforms`
 
 <div align="center">
 
-![WorldQuant BRAIN](https://img.shields.io/badge/WorldQuant_BRAIN-alpha_research-111827?style=for-the-badge)
-![Metaculus](https://img.shields.io/badge/Metaculus-forecasting-6d28d9?style=for-the-badge)
-![GJOpen](https://img.shields.io/badge/Good_Judgment_Open-forecasting-047857?style=for-the-badge)
-![Hypermind](https://img.shields.io/badge/Hypermind-prediction_markets-0e7490?style=for-the-badge)
-![Codeforces](https://img.shields.io/badge/Codeforces-competitive_programming-1f2937?style=for-the-badge&logo=codeforces)
-![HackerOne](https://img.shields.io/badge/HackerOne-security_research-171717?style=for-the-badge&logo=hackerone)
+### quantitative research & forecasting
 
-</div>
+[![WorldQuant BRAIN](https://img.shields.io/badge/WorldQuant_BRAIN-alpha_research-111827?style=for-the-badge)](https://platform.worldquantbrain.com/profile/public/SH20696)
+[![Metaculus](https://img.shields.io/badge/Metaculus-probabilistic_forecasting-6d28d9?style=for-the-badge)](https://www.metaculus.com/accounts/profile/275454/)
+[![Good Judgment Open](https://img.shields.io/badge/Good_Judgment_Open-forecasting-047857?style=for-the-badge)](https://www.gjopen.com/forecaster/l1ghtb0lt)
 
+<br>
+
+### security research & CTFs
+
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CTF_%26_security_labs-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://ctf.hackthebox.com/user/profile/746966)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-l1ghtxa83r-111827?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/l1ghtxa83r)
+
+<br>
+
+### competitive programming & problem solving
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-unkn0wn_006-1f2937?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/unkn0wn_006)
+[![AtCoder](https://img.shields.io/badge/AtCoder-unkn0wn_006-111827?style=for-the-badge)](https://atcoder.jp/users/unkn0wn_006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ahab_the_yautja_leader-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827)](https://leetcode.com/u/ahab_the_yautja_leader/)
+
+<br>
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-yautja__ahab-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/yautja_ahab)
+[![SPOJ](https://img.shields.io/badge/SPOJ-ahab__unkn0wn-334155?style=flat-square)](https://www.spoj.com/users/ahab_unkn0wn/)
+[![CodinGame](https://img.shields.io/badge/CodinGame-UNKN0WN_YAUTJA-F2BB13?style=flat-square&logo=codingame&logoColor=111827)](https://www.codingame.com/profile/24795e3d5f65d705cdd386163254fb4e0482276)
+
+<br><br>
+
+### data science & machine learning
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-data_%26_ML-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/susharhembram)
 ---
 
 ## `10 // long game`
