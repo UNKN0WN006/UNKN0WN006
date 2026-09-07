@@ -15,16 +15,10 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
 
-      - name: Generate signal field
-        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
-        id: signal
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ github.token }}
-          profile: signal-field
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
 
       - name: Generate activity consistency
         uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
@@ -44,12 +38,10 @@ jobs:
 
       - name: Stage cards
         env:
-          SIGNAL_DIR: ${{ steps.signal.outputs.ready-dir }}
           CONSISTENCY_DIR: ${{ steps.consistency.outputs.ready-dir }}
           LANG_DIR: ${{ steps.languages.outputs.ready-dir }}
         run: |
           mkdir -p profile
-          cp "$SIGNAL_DIR"/signal-field-*.svg profile/
           cp "$CONSISTENCY_DIR"/activity-consistency-*.svg profile/
           cp "$LANG_DIR"/language-composition-*.svg profile/
           git add profile/*.svg
@@ -59,6 +51,7 @@ jobs:
           if git diff --cached --quiet; then
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "Update profile telemetry"
