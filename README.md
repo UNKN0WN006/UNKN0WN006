@@ -215,7 +215,6 @@ I treat forecasting as a loop, not a one-shot prediction:
 |---|---|
 | **COMSYS Hackathon IV** | 3rd Place · few-shot multimedia classification |
 | **Google SecOps MCP Challenge** | Top 3 · security automation |
-| **Forecasting the Future 2026** | 20-outcome macro / geopolitical forecasting submission |
 | **NASA citizen science** | 2,800+ astronomical classifications |
 | **HackerOne + Intigriti** | vulnerability research / security challenges |
 | **Google Cybersecurity Professional Certificate** | completed professional certificate |
