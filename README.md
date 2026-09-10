@@ -54,29 +54,6 @@ Most of that can be reduced to one question:
 <tr>
 <td width="50%" valign="top">
 
-### Permissioned Economy
-**macro forecasting / geoeconomics**
-
-Forecasting research developed for **Bridgewater × Global Citizen — Forecasting the Future 2026**.
-
-`20 binary forecasts` · `2026–2031`
-
-**Questions I worked around**
-- AI compute and data-centre infrastructure
-- electricity and grid constraints
-- semiconductors and critical minerals
-- trade policy and tariffs
-- maritime infrastructure
-- FX reserves and global macro transitions
-
-**Method**  
-`base rates` `scenario analysis` `resolution rules` `evidence updates`
-
-[![research](https://img.shields.io/badge/OPEN_RESEARCH-7c3aed?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
 ### Maayavapi
 **threat intelligence / attacker behaviour**
 
@@ -115,23 +92,28 @@ Repository-analysis system that reasons across:
 
 `Python` `FastAPI` `GitHub API` `Next.js`
 
-[![project](https://img.shields.io/badge/OPEN_PROJECT-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
+[![project](https://img.shields.io/badge/OPEN_PROJECT-0891b2?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006/NOESIS)
 
 </td>
 <td width="50%" valign="top">
 
-### Few-Shot Multimedia Classification
+### AletheiaIR
 **computer vision / meta-learning**
 
-**3rd Place — COMSYS Hackathon IV**
+**self-correcting, contradiction-aware DFIR agent for Protocol SIFT**
 
-Worked on few-shot video classification using deep visual representations and temporal modelling.
+Protocol SIFT demonstrates what AI-assisted incident response looks like when it works. AletheiaIR addresses the next problem: what happens when the agent is confidently wrong?
 
-**Selected result:** `0.818 video accuracy`
+AletheiaIR extends the Protocol SIFT agent loop with four additional pipeline stages that run before anything reaches the report:
 
-`ResNet50` `LRCN` `Few-Shot Learning` `Meta-Learning`
+- Evidence Validation — every finding is checked against other source types. Memory and log both showing the same process chain raises confidence. A single source keeps it at "inferred."
+- Contradiction Detection — a deterministic rule engine checks for logical conflicts: a process visible in memory but absent from disk prefetch, C2 traffic with no owning process, claimed persistence without a registry artefact. Conflicts are recorded, not silenced.
+- Bounded Self-Correction — when contradictions exist, the agent reruns targeted analysis on the conflicting artefact types. Hard-capped at two iterations to prevent runaway loops.
+- Structured Audit Trail — every agent action is logged as JSONL with timestamps, confidence deltas, and tool call records. Judges can trace any finding back to its origin.
 
-[![research](https://img.shields.io/badge/OPEN_RESEARCH-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006?tab=repositories)
+`sha-256` `protocol-rift` 
+
+[![research](https://img.shields.io/badge/OPEN_RESEARCH-d97706?style=flat-square&logo=github&logoColor=white)](https://github.com/UNKN0WN006/aletheia-ir)
 
 </td>
 </tr>
