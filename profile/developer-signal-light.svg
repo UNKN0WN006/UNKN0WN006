@@ -12,12 +12,12 @@
 <rect x="18" y="18" width="1164" height="324" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
 <rect x="18" y="18" width="1164" height="5" rx="2.5" fill="url(#top)"/>
 <text x="48" y="62" fill="#0f172a" font-family="monospace" font-size="22" font-weight="700">UNKN0WN006 / DEVELOPER SIGNAL</text>
-<text x="1140" y="62" text-anchor="end" fill="#64748b" font-family="monospace" font-size="12">2025-11-25 -> 2026-11-24</text>
+<text x="1140" y="62" text-anchor="end" fill="#64748b" font-family="monospace" font-size="12">2025-11-26 -> 2026-11-25</text>
 
-<text x="56" y="112" fill="#22d3ee" font-family="monospace" font-size="56" font-weight="700">272</text>
+<text x="56" y="112" fill="#22d3ee" font-family="monospace" font-size="56" font-weight="700">269</text>
 <text x="56" y="138" fill="#1e293b" font-family="monospace" font-size="12">CONTRIBUTIONS / PAST 365 DAYS</text>
 
-<text x="56" y="180" fill="#0f172a" font-family="monospace" font-size="18" font-weight="700">42</text>
+<text x="56" y="180" fill="#0f172a" font-family="monospace" font-size="18" font-weight="700">41</text>
 <text x="98" y="180" fill="#64748b" font-family="monospace" font-size="12">active days</text>
 <text x="208" y="180" fill="#0f172a" font-family="monospace" font-size="18" font-weight="700">0</text>
 <text x="242" y="180" fill="#64748b" font-family="monospace" font-size="12">current streak</text>
